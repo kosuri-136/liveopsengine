@@ -1,0 +1,24 @@
+.image-container {
+    position: absolute;
+  }
+  
+  .background-image {
+    width: 99%;
+    height: 900px;
+  }
+  
+  .text-overlay {
+    position: absolute;
+    top: 0%;
+    left: 90%;
+    margin-top: 54px;
+    font-size: larger;
+    font-weight: bolder;
+ 
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: #ffffff;
+    /* Additional styles for your text overlay */
+    padding-top: 25%;
+  }
+  
